@@ -11,4 +11,4 @@ Welcome to my NeetCode solutions repository! This collection showcases my approa
 
 **Join me on this coding journey and explore the world of NeetCode! 🌍**
 
-**https://github.com/Vii-Mii**
+**https://github.com/Vii-Mii/Neetcode**
